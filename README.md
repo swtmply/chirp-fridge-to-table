@@ -13,6 +13,12 @@
 - **Frontend**: Used Next.js for server components and faster build
 - **Backend**: Spoonacular API
 
+## AI used
+
+- Github Copilot for code suggestion
+- v0 for code and component generation
+- Cursor Chat for data mock ups
+
 ## Setup
 
 - Clone repository
